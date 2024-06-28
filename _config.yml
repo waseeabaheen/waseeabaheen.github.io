@@ -1,3 +1,8 @@
-theme: jekyll-theme-minimal
-title: Waseea's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Waseea's Homepage
+description: Welcome to My Secure Space
+Explore the world of computer security and learn more about me.
+theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+
