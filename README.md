@@ -19,5 +19,4 @@
 
 ## 📂 Featured Projects
 - [incident-response-scripts](https://github.com/waseeabaheen/incident-response-toolkit): Python & PowerShell triage tools  
-- [ctf-writeups](https://github.com/waseea-baheen/ctf-writeups): Web, Crypto & Forensics challenge write-ups  
-- [docker-security-lab](https://github.com/waseea-baheen/docker-security-lab): Hardened container test environment  
+- [IAM Automation Script](https://github.com/waseeabaheen/iam-automation-toolkit.git): Python script 
