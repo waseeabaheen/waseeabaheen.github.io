@@ -1,8 +1,2 @@
-title: Waseea's Homepage
-description: Welcome to My Secure Space
-Explore the world of computer security and learn more about me.
-theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-remote-theme
+
 
