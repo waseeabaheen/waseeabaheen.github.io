@@ -60,3 +60,22 @@ A highly skilled cybersecurity analyst with hands-on experience in:
 - **IAM Automation Toolkit**  
   Automates AWS IAM user audits, stale-key detection, CSV/JSON reporting & email alerts.  
   [github.com/waseeabaheen/iam-automation-toolkit](https://github.com/waseeabaheen/iam-automation-toolkit)
+
+  ## 🎓 Education & Certifications
+
+**M.Sc. Information System Security**  
+Concordia University, Montreal (Canada) | Jan 2023 – Dec 2024  
+
+**B.Sc. Computer Science & IT**  
+University of AJK, Pakistan | Sep 2017 – Dec 2021  
+
+**Certifications:**  
+CompTIA Security+ • Splunk Core Power User • Microsoft Security Operations Analyst •  
+Qualys VM Specialist • (ISC)² CC • Fortinet Associate • CISSP (in progress)
+
+---
+
+## 📫 Get In Touch
+
+- 📧 Email: waseea.baheen@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/waseeabaheen](https://www.linkedin.com/in/waseeabaheen)  
