@@ -18,6 +18,6 @@
 **IR & Hunting:** CrowdStrike, XDR, SOAR  
 
 ## 📂 Featured Projects
-- [incident-response-scripts](https://github.com/waseea-baheen/incident-response-scripts): Python & PowerShell triage tools  
+- [incident-response-scripts](https://github.com/waseeabaheen/incident-response-toolkit): Python & PowerShell triage tools  
 - [ctf-writeups](https://github.com/waseea-baheen/ctf-writeups): Web, Crypto & Forensics challenge write-ups  
 - [docker-security-lab](https://github.com/waseea-baheen/docker-security-lab): Hardened container test environment  
