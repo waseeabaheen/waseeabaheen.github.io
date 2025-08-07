@@ -3,7 +3,7 @@
 
 **Cybersecurity Analyst** specializing in Incident Response • Threat Detection • Vulnerability Management
 
-🌐 Based in Islamabad, Pakistan  
+🌐 Based in Montreal, Quebec, Canada  
 ✉️ waseea.baheen@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/waseeabaheen) • [GitHub](https://github.com/waseeabaheen)  
 
