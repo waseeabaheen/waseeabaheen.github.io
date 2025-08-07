@@ -15,7 +15,7 @@
 **Scripting:** Python, PowerShell  
 **Cloud:** AWS, Azure, GCP  
 **Infra-as-Code:** Terraform, Docker, Kubernetes  
-**IR & Hunting:** CrowdStrike, XDR, SOAR  
+**IR & Hunting:** Sentinel, XDR, SOAR  
 
 ## 📂 Featured Projects
 - [incident-response-scripts](https://github.com/waseeabaheen/incident-response-toolkit): Python & PowerShell triage tools  
