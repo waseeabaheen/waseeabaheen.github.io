@@ -40,14 +40,19 @@ A highly skilled cybersecurity analyst with hands-on experience in:
 
 ### **Junior Network Security Engineer**  
 **Multinet, Islamabad**  │ Jan 2022 – Dec 2022  
-- Tuned FortiGate & IDS/IPS rules, cutting false positives by 30%.  
-- Built Python & PowerShell scripts to auto-triage vulnerabilities & alerts.  
-- Reduced incident response time by 40% via SOAR integration.
+- Configured Fortinet Firewalls (FortiGate) and optimized IDS/IPS rules, reducing false positives by 30% and improving network security posture.
+-	Monitored and analyzed security logs from Windows & Linux systems using SIEM responding to security incidents in real time.
+-	Assisted in XDR response & remediation strategies, reducing response time to incidents by 40%.
+-	Implemented Next-Gen Firewall (NGFW) policies, ensuring compliance with ISO 27001, NIST, and PCI-DSS standards.
+-	Conducted penetration testing and risk assessments, identifying and mitigating high-risk vulnerabilities across critical systems.
+-	Developed Python & PowerShell scripts to automate security monitoring and vulnerability scanning, improving detection capabilities.
+
 
 ### **Software Engineering Intern**  
 **NAVTTC, Islamabad**  │ May 2021 – Aug 2021  
-- Developed secure web apps with unit/integration tests; improved QA workflow.  
-- Authored technical docs & streamlined client hand-off processes.
+- Deployed three secure software applications, meeting functionality and performance benchmarks. 
+-	Conducted 50+ unit and integration tests, resolving critical issues effectively. 
+- Assisted in writing technical documentation, tracking reports and enhancing client engagement
 
 ---
 
