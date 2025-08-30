@@ -1,6 +1,7 @@
 
 # Hi, I’m Waseea Baheen 👋
 
+
 **Cybersecurity Analyst** specializing in Incident Response • Threat Detection • Vulnerability Management
 
 🌐 Based in Montreal, Quebec, Canada  
